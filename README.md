@@ -1,2 +1,2 @@
-# lakshmanrekha
-lakshmanrekha Android App
+# Lakshman Rekha
+Lakshman Rekha Android App
